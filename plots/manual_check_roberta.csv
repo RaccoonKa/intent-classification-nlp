@@ -1,0 +1,22 @@
+Текст,Истинный класс,Предсказанный класс,Уверенность,Верно?
+find me a recipe for lasagna,search,reminder,0.18242198,False
+what's the capital of France,search,directions,0.62081486,False
+set an alarm for my dentist appointment,alarm,alarm,0.85067636,True
+wake me up at 7 am,alarm,alarm,0.92483544,True
+remind me to buy milk tomorrow at 8am,reminder,alarm,0.7802195,False
+set a reminder to water the plants,reminder,reminder,0.63083494,True
+turn off the lights in the living room,smart_home,smart_home,0.62759644,True
+set thermostat to 22 degrees,smart_home,smart_home,0.43122455,True
+how do I get to the nearest coffee shop,directions,directions,0.90203375,True
+navigate to Central Park,directions,directions,0.8653431,True
+play some relaxing jazz music,play_music,play_music,0.9172882,True
+shuffle my workout playlist,play_music,play_music,0.90303624,True
+do I need an umbrella this weekend,weather,weather,0.7118123,True
+what's the temperature in Chicago,weather,weather,0.7960511,True
+what are the latest sports news,news,weather,0.5810712,False
+tell me the top headlines,news,reminder,0.3385238,False
+add meeting to my calendar for Friday,calendar,calendar,0.73493373,True
+what's on my schedule today,calendar,calendar,0.8546536,True
+translate hello to Spanish,translate,translate,0.94533247,True
+how do you say thank you in French,translate,translate,0.94924897,True
+look up flights to London,search,directions,0.9000327,False
